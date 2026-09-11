@@ -1,0 +1,17 @@
+# байткод и кеши
+__pycache__/
+*.pyc
+.pytest_cache/
+.mypy_cache/
+
+# виртуальное окружение
+venv/
+.venv/
+
+# секреты и локальные настройки
+.env
+*.local
+
+# IDE
+.idea/
+.vscode/
